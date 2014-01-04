@@ -1,0 +1,1 @@
+#! /usr/bin/rebolREBOL []; use  types; some pointers we needchar*: make struct! [buffer [string!]] nonestruct*: make struct! [struct [struct! [[save] c [char]]]] nonebyte-ptr!: make struct! [byte [char!]] noneint-ptr!: make struct! [int [integer!]] nonefloat-ptr!: make struct! [float [decimal!]] none
