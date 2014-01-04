@@ -10,7 +10,7 @@ You must use 32-bit version of dynamically linked libraries.
 
 ### glfw.r
 
-The binding for REBOL that only allows to access GLFW. There is no binding for Opengl or Utility Toolkit. 
+The binding for REBOL only allows to access GLFW. There is no binding for Opengl or Utility Toolkit. 
 For OpenGL access please use scripts that can be found at http://www.rebol.org/
 For example: http://www.rebol.org/view-script.r?script=opengl-glu-glut-h.r
 
